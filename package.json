@@ -78,6 +78,6 @@
     "expand-tilde": "^2.0.2",
     "node-ini": "^1.0.0",
     "tilde-expansion": "0.0.0",
-    "tmp": "0.0.31"
+    "tmp": "0.2.4"
   }
 }
